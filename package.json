@@ -1,0 +1,39 @@
+{
+  "author": {
+    "name": "iamport",
+    "email": "support@iamport.kr"
+  },
+  "bugs": {
+    "url": "https://github.com/iamport/iamport-ionic-inicis3/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@ionic-native/in-app-browser": "^4.3.1",
+    "ionic-angular": "^3.7.1"
+  },
+  "deprecated": false,
+  "description": "[아임포트](http://www.iamport.kr) inicis3결제를 ionic2, ionic3 환경에서 사용할 수 있도록 만든 플러그인입니다.",
+  "devDependencies": {
+    "@ionic-native/in-app-browser": "^4.3.1"
+  },
+  "homepage": "https://github.com/iamport/iamport-ionic-inicis3#readme",
+  "jsnext:main": "iamport-ionic-inicis3.js",
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "main": "iamport-ionic-inicis3.umd.js",
+  "module": "iamport-ionic-inicis3.js",
+  "name": "iamport-ionic-inicis3",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamport/iamport-ionic-inicis3.git"
+  },
+  "typings": "iamport-ionic-inicis3.d.ts",
+  "version": "0.9.5"
+}
